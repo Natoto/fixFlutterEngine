@@ -2,6 +2,8 @@
 
 fix flutter engine 官方内存泄漏
 
+qq群【flutter移动开发】：217429001
+
 ## 使用方法
 
 找到对应flutter的版本号，选择debug或release，下载解压到
