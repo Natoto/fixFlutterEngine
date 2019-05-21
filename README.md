@@ -9,3 +9,8 @@ qq群【flutter移动开发】：217429001
 找到对应flutter的版本号，选择debug或release，下载解压到
 
 `你的flutter目录/bin/cache/artifacts/engine/ios`  即可
+
+
+### change log
+
+* 5.21 修复了1.5版本的内存泄漏 
